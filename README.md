@@ -17,7 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=NGIWS719&style=flat-square&color=grey" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=NGIWS719&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NGIWS719&show_icons=true&theme=transparent" />
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NGIWS719&theme=transparent&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGIWS719&theme=transparent&layout=compact" />
+</p>
