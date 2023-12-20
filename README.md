@@ -17,6 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=NGIWS719&style=flat-square&color=grey" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGIWS719&theme=transparent&layout=compact" />
-</p>
+<!-- <p align="center">
+  <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGIWS719&theme=transparent&layout=compact" />
+</p> -->
